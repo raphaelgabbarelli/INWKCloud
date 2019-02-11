@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INWKCloud.Web", "INWKCloud.Web\INWKCloud.Web.csproj", "{CBEE1C02-8E5A-4884-8EAD-280C79EF2DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEE1C02-8E5A-4884-8EAD-280C79EF2DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEE1C02-8E5A-4884-8EAD-280C79EF2DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEE1C02-8E5A-4884-8EAD-280C79EF2DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEE1C02-8E5A-4884-8EAD-280C79EF2DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D8C15AA-A00D-4296-9A46-89425094CABA}
+	EndGlobalSection
+EndGlobal
