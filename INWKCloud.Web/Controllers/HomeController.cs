@@ -39,5 +39,11 @@ namespace INWKCloud.Web.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        [HttpPost]
+        public IActionResult CreateVM(string vmOption, string vmCostCenter, string userName, string password)
+        {
+            return View("Index");
+        }
     }
 }
